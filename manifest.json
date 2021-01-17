@@ -5,15 +5,19 @@
   "description": "a theme generated using pywal",
   "author": {
     "name": "maisha",
-    "email": "maishammotli1@gmail.com",
-    "url": "https://www.netflix.com/browse"
+    "email": "maishammotli1@gmail.com"
   },
+  
   "resources": {
     "css": "ljegXVfJXUf3qC+waePEcOEBjjp2xr+3oCNpjfV9cYvuKWAGlm9xu0zHPJiNh0rzfVXXwC4EMONHoHEgxYopaK9kUVPXXCe86Xu/v6/qoV3kQJeyVdp6kWNjoh8Cr3+1mpT9fkCAjaU7ISY9Jl37PYpU5lOMqxh2D7Mv1VR2B7JtsrzLi+hAd4BSCvLsDJ6E1o1+eH8FtoCPn3OriNZ0iONO/nUV5hGmnSwBNlzJHz/s9tKK0U/Cze4/485kqs2SXrGxDjU1xIT8ZJx3PSV7CsEU1QH+p6yk85XsWmsLRblwMl/QTeJwXofkhqGPZhJDRbFTk37YLwI2rwSLpLn7Mw=="
   },
+  
   "license": "MIT",
+  
   "url": "https://maishams.github.io/pywal-keepass/",
+  
   "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArYHHk71Www1gWSvf6xLiyflXuushm0MbA6kIuS9lvzp7hX9ehAaeiV00dStO3CfVdH/lRv7YBrpc2Yfqrw1J/itnGomfosMLf60Rz/6TeTSKkmTlW28z3OxMcxc+n4+xbYmsk3E1F7B6c2FaKSt98SxNFoSzmrNAgg5mZaYmQbFE3OptA/OcMfsvAkjbgRJUM2cRIjPi4xoQrpuOvZuyVn1ZbNIUAAp0Sjgpg1Fv0NtYTziOImZ9aS2zucwGvv8f219dIrkmt8+k3sBxLIBhRDmMX66b3RmdbLVzlJGm/Zoxo1IH/ObZ4J8XmWRLJNIqQSLl6I/OYrlIvQw4nuEBcwIDAQAB",
+  
   "theme": {
     "name": "pywal",
     "title": "pywal"
