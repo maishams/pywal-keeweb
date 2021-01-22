@@ -1,28 +1,21 @@
 {
   "version": "0.0.1",
   "manifestVersion": "0.1.0",
-  "name": "pywal",
-  "description": "a theme generated using pywal",
+  "name": "maisha-theme",
+  "description": "maisha has a nice theme",
   "author": {
     "name": "maisha",
     "email": "maishammotli1@gmail.com",
     "url": "https://github.com/maishams"
   },
-  
   "resources": {
-    "css": "ljegXVfJXUf3qC+waePEcOEBjjp2xr+3oCNpjfV9cYvuKWAGlm9xu0zHPJiNh0rzfVXXwC4EMONHoHEgxYopaK9kUVPXXCe86Xu/v6/qoV3kQJeyVdp6kWNjoh8Cr3+1mpT9fkCAjaU7ISY9Jl37PYpU5lOMqxh2D7Mv1VR2B7JtsrzLi+hAd4BSCvLsDJ6E1o1+eH8FtoCPn3OriNZ0iONO/nUV5hGmnSwBNlzJHz/s9tKK0U/Cze4/485kqs2SXrGxDjU1xIT8ZJx3PSV7CsEU1QH+p6yk85XsWmsLRblwMl/QTeJwXofkhqGPZhJDRbFTk37YLwI2rwSLpLn7Mw=="
+    "css": "mz/PP+7HouD1/2rr/ZqqRDKs8W26VrEPB8a6QT11HW/9dZ29zbLR28UryQtA9wwUtr4bMFkRIEAPYTAJRE6cLGcFJ6a26+ld8R/wdUtrNCcbRTTz7zP0/igdhJQnSI3qoZ1dlTLsdEJJhCrPZDa2r6pGhwarH1gKSbD6jIfy7dDLKttsghV5y1uQfqWkJWcL0Sayr0Fp812G4c/obLo6b2W2Ra50v5K2+I9lX148KhYiX2Gm0Uimjuuh/PCgXz9KnubONWPnxxT+q52TluzDqumvuF7w6pt/gMM+KdCPwfZE9lOYDxb+262LuEDpwn7WOQmKYhNb5CXJnRatSYBRKg=="
   },
-  
-  "desktop": true,
-  
   "license": "MIT",
-  
   "url": "https://maishams.github.io/pywal-keepass",
-  
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArYHHk71Www1gWSvf6xLiyflXuushm0MbA6kIuS9lvzp7hX9ehAaeiV00dStO3CfVdH/lRv7YBrpc2Yfqrw1J/itnGomfosMLf60Rz/6TeTSKkmTlW28z3OxMcxc+n4+xbYmsk3E1F7B6c2FaKSt98SxNFoSzmrNAgg5mZaYmQbFE3OptA/OcMfsvAkjbgRJUM2cRIjPi4xoQrpuOvZuyVn1ZbNIUAAp0Sjgpg1Fv0NtYTziOImZ9aS2zucwGvv8f219dIrkmt8+k3sBxLIBhRDmMX66b3RmdbLVzlJGm/Zoxo1IH/ObZ4J8XmWRLJNIqQSLl6I/OYrlIvQw4nuEBcwIDAQAB",
-  
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5WDufV3mrohd49AS2HQMTWgxV72zqhXhIXB77BidVdge0myxr/2a/YghyVCpWPJ2PBr5+kXcMCmfy1XUrFvfR2a0O1oGlkhBCJ8Fz6QaderZR6SeUD/3M04fVMkY2Bxxy2KPvP2qKtV3wfW2jE6MQ+0qommKErPw0cPlI/IvLKzeIOZlZ1wFCw1MKMlU5pHel9Kjnbxz6jli2p51PbXtjKRzxwqNPzRBy/OWSeuRoX9MABK2iHzx22VWS2m7eMP4nsvEUSLuM2UHrX51ckwDse4LkpW69ECzNH6U4PlQtWa6vro9cDgITnehbVTPXGZmK2faHxvJOvV6HVaspI17IwIDAQAB",
   "theme": {
-    "name": "pywal",
-    "title": "pywal"
+    "name": "maisha-theme",
+    "title": "maisha theme"
   }
 }
