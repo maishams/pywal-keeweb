@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "pywal",
+  "description": "pywal theme for me wooo",
+  "author": {
+    "name": "maisha",
+    "email": "hello@maisha.me",
+    "url": "https://github.com/maishams/pywal-keepass"
+  },
+  "resources": {
+    "css": "oWw3e6KNy8/i4zRl08In87N8MqT2heF2YJ1RuGneTW18+XF4tDTcpLeSa1dvco+HPfxLdjmfhHEi4VgIJ47+L1g+GPw8Ksneg3+j8wQokZFQ3qPCfa6T3ZDBHTJRbQEHROE8TYbBcYVEeiCvqn/rQyNR2pj7yH4zWuLr6YaPu0IBZutId/2qzQsiIRsXrwehx+c2LnyR8dxfz+frXyNgdTrBhR7jPE+MGmDY0npKW65mLiNJhiluJwf7FskihmVGP1PdbNzZ1NLRueAgGPB3AjUwi5a1xsUadE5/NsE32qjX3eNTqSs3YdwmRth3kUJvBxAVFrDWblYLbH0z5eMIDw=="
+  },
+  "license": "MIT",
+  "url": "https://github.com/maishams/pywal-keepass",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxr7v2AkzOo6SW2ywJ/Eybv4QOim9CvTyDM0+TASZxfl75gbWqQ2I0YQ36qzjPpRy8Nn+kHoOs979ixK78SdLWI0RYcYZ8U9J/eq83e9S0OFivIvIeKtJX5puV7be+7qsECv4iw7+BnIyx7kzaz8YZdq/D6UHz3vIBwkwCl+LKfK4i+qY2V3C0bbc93ZLt+Bw0ODprrtL/yOR457MBZWt/eCdX8+9yZa8FBUHRhvogdajafUStp7fDbcmcNvy2XwE4xF78ojfbWdMGnJlFBG3QWjN1i2By5q+5FA5aYNkR0CPnmkxwtYFMwVmrtPPM+DklG6eRDlCoiSiroIUobXuOQIDAQAB",
+  "theme": {
+    "name": "pywal",
+    "title": "pywal"
+  }
+}
