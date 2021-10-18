@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "manifestVersion": "0.1.0",
-  "name": "pywal",
+  "name": "keeweb-pywal",
   "description": "pywal theme",
   "author": {
     "name": "maisha motlib-siddiqui",
@@ -9,13 +9,13 @@
     "url": "https://maisha.me"
   },
   "resources": {
-    "css": "ZUOkLJ10SxoIm76z/kKPNGFZs6EWiumyU2WkMPIWfXB3eZqSUzniKcMVkvAHK7nvMIETM0Tyw+lk7PNwUY+mLLWVlZxic3IjkbPZcIbQ6SCRmEqdk0zjXm4zgrIVQk3mj7ZI3vMmlHHBWpnQ5VYyYPKbrp5cTOwxijd14CwgX8yfzn7+fogTUxQP5G2bbUH8iAOhtgn2T8tRjrhYcA5Dv7X7/NbyIl9CRLpecdi5lywsLjMS7KrJ3z+tBBdlwnuOXzog5ulMcIeP4txyhnnnLlWcOt16h+lydWYh8qog2f9rB7vOJmO5xBkHqBajoJy26f214etmSDABufNOnWFaqg=="
+    "css": "BEpspOH24Ds/K6nxaVF2uHvy6UVBGPT7cn7YmtDoCvpUVQC/3bJXgoBd/uNRQXf1w5MIDE08lBO5LGDQTXIaXSt0YLHU65/IBkJHSI5Kq0XnTq/ntquXP+DKAjymGvkUTP/YbxAhu7lYUYXwzXT0kQIqleMALJ+tsx2YOeyScEDjLFd4k96fxmxmpzRXqn21WkKQNW5hN97dzkb7IoNS/17C7wc0YFUKSePKhnkyPVfBU1gBKB0J0AXP6iHrxZwzMUwQXDc/suUio1EGCvO0ZUkZGC+XNVmckIwUtjbaihK8q/w1fHCbzPbutqbIY5eQG5GtwA5FvghpI0LpB3ZrDw=="
   },
   "license": "MIT",
   "url": "https://keeweb-pywal.maisha.me",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1arSMhV06BLZw4iAQtX9xeJXGCeZOCBiKMB5BrHDSdb6J2lrLp2LNvx8Ro7vRSd40yTGBr/nI0521vnnqD/2LjITRE/lfDxXPo5dLh1gWSXWtJgjeW2xVRVtzxMeEaaydVtBe/+BfrbUB4rYuhwlOf7wVxTmXdB89pl9o26UDUfPQOtx8kCEdWjW2vYYBo84BG8FCSLEQcAjhCzVi6mnNKhn1sYVqgTXgqgD0HzApRfU+ii2qtwwzSfnJHlTiWioY6auN5+D2VUiBOhGyMsoa9ab0l9fPp73ANE3NRRJeapigLy8Y6ad1hSzC9R2zZZNm8DcqOYtSl8AK5HDdySNCQIDAQAB",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw8uLlj0oMFcBFFpqPGAP9niQIp8FwKxKKnb3LU38vsLvq793nyWrUtBT8M4VfqZzAU6fCkxfpYbuA1siuN8ORwQUX4iwOtgbb4hgqwUTbg8r3gml5waTpI8QNUN+bcLiLg216r8WMsXAgwXl2O8WBsN6I+OYaPouQnKRxVFqvbX1pHdNGNiDPnNEX4vfSnDY8uwxRowxNCDCexSUeu3p/L82LpQhxk8odgUJP/iNuIi2AGESMYjSOKkHINdo6H2BEBFEr0jQ6Ocr764Md37KD43KLU3JJMAEnIT/+1XZ4PtWuJOWl4LyeyOidAENH7LofBJU96RnYshMvMRqRWysCQIDAQAB",
   "theme": {
-    "name": "pywal",
-    "title": "pywal"
+    "name": "keeweb-pywal",
+    "title": "keeweb-pywal"
   }
 }
