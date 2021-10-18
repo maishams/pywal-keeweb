@@ -1,7 +1,9 @@
+@import url("colors.css");
+
 .th-keeweb-pywal {
-  --background-color: #282c34;
-  --medium-color: #abb2bf;
-  --text-color: #d7dae0;
-  --action-color: #528bff;
-  --error-color: #c34034;
+  --background-color: var(--background);
+  --medium-color: var(--color1);
+  --text-color: var(--foreground);
+  --action-color: var(--color3);
+  --error-color: var(--color2);
 }
