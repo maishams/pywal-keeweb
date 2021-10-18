@@ -1,9 +1,7 @@
-@import url("colors.css");
-
 .th-pywal {
-  --background-color: var(--color0);
-  --medium-color: var(--color6);
-  --text-color: var(--color7);
-  --action-color: var(--color1);
-  --error-color: var(--color2);
+  --background-color: #282c34;
+  --medium-color: #abb2bf;
+  --text-color: #d7dae0;
+  --action-color: #528bff;
+  --error-color: #c34034;
 }

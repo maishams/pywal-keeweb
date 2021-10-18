@@ -2,18 +2,18 @@
   "version": "0.0.1",
   "manifestVersion": "0.1.0",
   "name": "pywal",
-  "description": "pywal theme for me wooo",
+  "description": "pywal theme",
   "author": {
-    "name": "maisha",
+    "name": "maisha motlib-siddiqui",
     "email": "hello@maisha.me",
-    "url": "https://github.com/maishams/pywal-keepass"
+    "url": "https://maisha.me"
   },
   "resources": {
-    "css": "Og7dYnp6NIT8A4uyaU6sHDn213+EZE2H1gzrPsTpvytsipzCE1FvPVW6gRY8CRtc/kdHdHyGjKFx4kj0y5b/ch/0mhk0aKQKtb9NN4Mgmhetncl90M/5I8+57vmIygTrhvPV9hqP42wiaF94LBwWWn0+/gTffoiSucw9o2kqb7CHMyYMyJcZbPq7GG3hSLa/EL8cHgRTCqvxwUBcVR49dXQ3dYTKxkGuZ+HMK00tI8i5qCTVcKTwKMgmot39YMycb8w06BMRXC7uSk3is+R5KPmqsrIYQ+5iFKQqOPzCvHIH+g3sfcQxcJZD0INwmSg+to0CAcRpUsYFgsxzShmbuw=="
+    "css": "ZUOkLJ10SxoIm76z/kKPNGFZs6EWiumyU2WkMPIWfXB3eZqSUzniKcMVkvAHK7nvMIETM0Tyw+lk7PNwUY+mLLWVlZxic3IjkbPZcIbQ6SCRmEqdk0zjXm4zgrIVQk3mj7ZI3vMmlHHBWpnQ5VYyYPKbrp5cTOwxijd14CwgX8yfzn7+fogTUxQP5G2bbUH8iAOhtgn2T8tRjrhYcA5Dv7X7/NbyIl9CRLpecdi5lywsLjMS7KrJ3z+tBBdlwnuOXzog5ulMcIeP4txyhnnnLlWcOt16h+lydWYh8qog2f9rB7vOJmO5xBkHqBajoJy26f214etmSDABufNOnWFaqg=="
   },
   "license": "MIT",
-  "url": "https://github.com/maishams/pywal-keepass",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvDBqJEr6OwlrRO/6BIeBAkrkaax7ASLOvfkjw+ms+MFW0zNF6QkGE+EOQ20I9rsb1RksJfrKXC6KcBt1KysYIGPDgDagb9rFGn/385e3e1TnPON+ZoPJyt1FBO2WovhHpJPipXgT0wQ8JCnan/xZr9lxmnGXS6UwpW70fCNwYwcCodDSDFuIxTwjqg24/VzkUB7qRxblPeJRy9I1KiJ9CL+ua9hukenrsvgnJrUPVKKyVQ+1MwAB6fDPXWgsafCXGn87YXidKuazuH5tUBrNd6eEAjNx02Lxw7i2M3w3FzCvQZBGusTECoX+E9MT2GnMLRX10SjIe+HQhPSJ2v7yvQIDAQAB",
+  "url": "https://keeweb-pywal.maisha.me",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1arSMhV06BLZw4iAQtX9xeJXGCeZOCBiKMB5BrHDSdb6J2lrLp2LNvx8Ro7vRSd40yTGBr/nI0521vnnqD/2LjITRE/lfDxXPo5dLh1gWSXWtJgjeW2xVRVtzxMeEaaydVtBe/+BfrbUB4rYuhwlOf7wVxTmXdB89pl9o26UDUfPQOtx8kCEdWjW2vYYBo84BG8FCSLEQcAjhCzVi6mnNKhn1sYVqgTXgqgD0HzApRfU+ii2qtwwzSfnJHlTiWioY6auN5+D2VUiBOhGyMsoa9ab0l9fPp73ANE3NRRJeapigLy8Y6ad1hSzC9R2zZZNm8DcqOYtSl8AK5HDdySNCQIDAQAB",
   "theme": {
     "name": "pywal",
     "title": "pywal"
