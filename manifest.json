@@ -16,7 +16,6 @@
   "license": "MIT",
   "url": "https://keeweb-pywal.maisha.me",
   "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw8uLlj0oMFcBFFpqPGAP9niQIp8FwKxKKnb3LU38vsLvq793nyWrUtBT8M4VfqZzAU6fCkxfpYbuA1siuN8ORwQUX4iwOtgbb4hgqwUTbg8r3gml5waTpI8QNUN+bcLiLg216r8WMsXAgwXl2O8WBsN6I+OYaPouQnKRxVFqvbX1pHdNGNiDPnNEX4vfSnDY8uwxRowxNCDCexSUeu3p/L82LpQhxk8odgUJP/iNuIi2AGESMYjSOKkHINdo6H2BEBFEr0jQ6Ocr764Md37KD43KLU3JJMAEnIT/+1XZ4PtWuJOWl4LyeyOidAENH7LofBJU96RnYshMvMRqRWysCQIDAQAB",
-  "desktop": true,
 
   "theme": {
     "name": "keeweb-pywal",
