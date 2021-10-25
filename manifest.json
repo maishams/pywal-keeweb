@@ -1,20 +1,19 @@
 {
   "version": "0.0.1",
   "manifestVersion": "0.1.0",
-  "name": "keeweb-pywal",
-  "description": "pywal theme",
+  "name": "pywal",
+  "description": "pywal",
   "author": {
-    "name": "maisha motlib-siddiqui",
+    "name": "maisha",
     "email": "hello@maisha.me",
     "url": "https://maisha.me"
   },
   "resources": {
-    "css": "jUxicqW2SwldYq02m/XqgUyK7tmjQjz/bbf0VT0Kdxg1smKlPqOsP4R+4ZprMemA0vGfZ7pCUbnBTaVgy/mXTHLoQtM8bIky+fO2gjqjuytG2STkcuLKjtX5/MfWiNXyrjPEwKuVpPz1BoU6p0RSlulYi60cYbh64AfISYorWsMuH/kCIHYDbuPcJNboS7XipbVxfsujREQ+JJL4NWXW1De2DGXsvKRXlgzMQfbaI9nqtdaM5tEWS9mwtrEzA/R24RzZ3WUP0OG+8HIZRq+1kfbD0NUgXkDq7f0PR8kv6vvIp2OJgQlrfdNAQh8f0RmlA/YPm/HQVXcTpZvCQFR+Zg=="
+    "css": "AmsFTeNTS7zEaaum+vlT+zoZVaE1Hpzva4JFPttAdfVayBGzSUlpqjN2Q5PRzsMvAyZqCXwRLNVScSBpSHlmuQemXh/3OUEGBpdBIlm4UVSn1M4F4xPJFghlNSMk9y2/R41do02WTWc1SJVa98raANGEzaFhFT1VGCxruplUHqcWDSjVudUUkEJNN3WZWmPwBJDXIfzIOdX6cWfdLpfkoG7chUSkVO+WIME/9vHxY6FAJSrcVP043ksecNrap03v4JRIkajCqDD5kg1Ui2As58ji/CnGikZyb+86UUqlY8baRt8KEzSHx5sQ82sxr1LuQsArOrsd2iKS2Twz70gOsA=="
   },
   "license": "MIT",
-  "url": "https://keeweb-pywal.maisha.me",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw8uLlj0oMFcBFFpqPGAP9niQIp8FwKxKKnb3LU38vsLvq793nyWrUtBT8M4VfqZzAU6fCkxfpYbuA1siuN8ORwQUX4iwOtgbb4hgqwUTbg8r3gml5waTpI8QNUN+bcLiLg216r8WMsXAgwXl2O8WBsN6I+OYaPouQnKRxVFqvbX1pHdNGNiDPnNEX4vfSnDY8uwxRowxNCDCexSUeu3p/L82LpQhxk8odgUJP/iNuIi2AGESMYjSOKkHINdo6H2BEBFEr0jQ6Ocr764Md37KD43KLU3JJMAEnIT/+1XZ4PtWuJOWl4LyeyOidAENH7LofBJU96RnYshMvMRqRWysCQIDAQAB",
-  "desktop": true,
+  "url": "https://keeweb-pywal.maisha.me/",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuia1xuCrdeQrM9Zq1/gqek1P/RnXHhufmHAPpS6zuCtwBMD0lQQsfRBrrdy8OpXg+0RXCdNP8Kr98tnzwihDduTDRRSlZp2mBFA4MtNSr9dHizmnT7qyD1DYizlB6049rAi3rxpEFjJAa1U2YWLFIZeZ0aHeFPvX+Rp2LK/xY62WsA0meUaWA2taxqseCE/ba++neHxcMzx0q0txq/Wy160IPDxZ3jM7fYUd4XCX01HYa69LlP2Kf68JtvEk6/FXsf/yvEP9nx/46z3SwBrz1kTecPQKg+49P99xslvDDIw1XdXU89pSA6W21S5g58PynJv0U5/yUbwIbzkLcii2DQIDAQAB",
   "theme": {
     "name": "pywal",
     "title": "pywal"
