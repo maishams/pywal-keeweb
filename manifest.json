@@ -1,25 +1,22 @@
 {
   "version": "0.0.1",
   "manifestVersion": "0.1.0",
-  "name": "keeweb-pywal",
+  "name": "keeweb pywal",
   "description": "pywal theme",
   "author": {
     "name": "maisha motlib-siddiqui",
     "email": "hello@maisha.me",
     "url": "https://maisha.me"
   },
-  
   "resources": {
-    "css": "vFK2D4NDdNzsJYs/v/5Yyd/iNgKYr9RKDlL+xSzZMUh8F94+Gj1USpDFJlwETpDHoSkXeDBmnC+KUXMOvInY9pKA29MIaQe4tIQKT4xDwqVKPZ9/SZeYC4oBgElO7CGM5pmDmDmEOV+RrYBlFveMg8bp49VlG7B00qkRIhk93RKl//N8rngTSWpT+po39koOXiONgjSLxCefRrppWm33ZOQaIUDmmEgJKCJZHQqixnJPWI4310Q91rCudCmRaP0PT6EtDH26O2eke5QXucO25NdKEzxdFtIxU9L3x2Jor0l0dAwyKZnMy1ksAxICgT2p35vNoopY5xhnIT4P9rxk4w=="
+    "css": "jUxicqW2SwldYq02m/XqgUyK7tmjQjz/bbf0VT0Kdxg1smKlPqOsP4R+4ZprMemA0vGfZ7pCUbnBTaVgy/mXTHLoQtM8bIky+fO2gjqjuytG2STkcuLKjtX5/MfWiNXyrjPEwKuVpPz1BoU6p0RSlulYi60cYbh64AfISYorWsMuH/kCIHYDbuPcJNboS7XipbVxfsujREQ+JJL4NWXW1De2DGXsvKRXlgzMQfbaI9nqtdaM5tEWS9mwtrEzA/R24RzZ3WUP0OG+8HIZRq+1kfbD0NUgXkDq7f0PR8kv6vvIp2OJgQlrfdNAQh8f0RmlA/YPm/HQVXcTpZvCQFR+Zg=="
   },
-
   "license": "MIT",
   "url": "https://keeweb-pywal.maisha.me",
   "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw8uLlj0oMFcBFFpqPGAP9niQIp8FwKxKKnb3LU38vsLvq793nyWrUtBT8M4VfqZzAU6fCkxfpYbuA1siuN8ORwQUX4iwOtgbb4hgqwUTbg8r3gml5waTpI8QNUN+bcLiLg216r8WMsXAgwXl2O8WBsN6I+OYaPouQnKRxVFqvbX1pHdNGNiDPnNEX4vfSnDY8uwxRowxNCDCexSUeu3p/L82LpQhxk8odgUJP/iNuIi2AGESMYjSOKkHINdo6H2BEBFEr0jQ6Ocr764Md37KD43KLU3JJMAEnIT/+1XZ4PtWuJOWl4LyeyOidAENH7LofBJU96RnYshMvMRqRWysCQIDAQAB",
   "desktop": false,
-  
   "theme": {
-    "name": "keeweb-pywal",
-    "title": "keeweb-pywal"
+    "name": "pywal",
+    "title": "pywal"
   }
 }
