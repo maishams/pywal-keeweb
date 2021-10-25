@@ -1,0 +1,7 @@
+.th-pywal {
+  --background-color: var(--background);
+  --medium-color: var(--color1);
+  --text-color: var(--foreground);
+  --action-color: var(--color3);
+  --error-color: var(--color2);
+}
