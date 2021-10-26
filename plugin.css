@@ -44,10 +44,6 @@
   color:var(--background);
 }
 
-.th-pywal .list__item-icon {
-	text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.75);
-}
-
 .th-pywal input[type='text']:active,
 .th-pywal input[type='text']:focus,
 .th-pywal input[type='password']:active,
