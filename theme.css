@@ -1,5 +1,5 @@
 .th-pywal {
-  --background-color: var(--background);
+  /* --background-color: var(--background);
   --medium-color: var(--color4);
   --text-color: var(--foreground);
   --action-color: var(--color4);
@@ -7,13 +7,25 @@
   --accent-border-color: var(--color5);
   --selected-item-color: var(--color5);
   --selected-on-secondary-item-color: var(--color5);
-  --text-selection-bg-color: var(--color3);
+  --text-selection-bg-color: var(--color3); */
+
+  --action-color: var(--color4);
+  --background-color: var(--background);
+  --error-color: var(--color2);
+  --intermediate-background-color: var(--color1);
+  --light-border-color: var(--color1);
+  --medium-color: var(--foreground);
+  --secondary-background-color: var(--color3);
+  --text-color: var(--foreground);
+  --text-contrast-action-color: var(--background);
+  --form-box-shadow-color-focus: var(--background);
+  --form-box-shadow-color-focus-error: var(--background);
 }
 
-.th-pywal .menu__item--active.menu__item--hover>.menu__item-body,
+/* .th-pywal .menu__item--active.menu__item--hover>.menu__item-body,
 .th-pywal .menu__item--active>.menu__item-body{
-  --selected-item-text-color: var(--color1);
-  color: var(--color1);
+  --selected-item-text-color: var(--background);
+  color:var(--background);
 }
 
 .th-pywal input[type='text']:active,
@@ -26,4 +38,4 @@
 .th-pywal textarea:focus {
   border: 2px solid var(--color5);
   box-shadow: 0px 0px 3px var(--background);
-}
+} */
