@@ -12,8 +12,8 @@
 
 .th-pywal .menu__item--active.menu__item--hover>.menu__item-body,
 .th-pywal .menu__item--active>.menu__item-body{
-  --selected-item-text-color: var(--background);
-  color:var(--background);
+  --selected-item-text-color: var(--color1);
+  color: var(--color1);
 }
 
 .th-pywal input[type='text']:active,
